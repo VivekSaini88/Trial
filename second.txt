@@ -1,1 +1,1 @@
- This is the second file i will be experimenting with. First update to second file. Checking the difference between the working space and the repository.
+ This is the second file i will be experimenting with. First update to second file. Checking the difference between the working space and the repository. Checking the difference when I edit multiple files.
