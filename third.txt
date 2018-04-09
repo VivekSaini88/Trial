@@ -1,1 +1,1 @@
-This is the third file I am going to experiment with to learn git. Editing this file too to check the difference when multiple files are edited.
+This is the third file I am going to experiment with to learn git. Editing this file too to check the difference when multiple files are edited. Just to check the difference between the file in the staging area and the repository.
